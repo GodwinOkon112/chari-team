@@ -1,0 +1,15 @@
+html,
+body {
+  max-width: 1400px;
+  min-width: 300px;
+  margin: auto;
+}
+
+.background {
+  background-image: linear-gradient(rgb(23, 57, 62, 0.8), rgb(23, 57, 62, 0.9)),
+    url(assets/chariteam-image.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
